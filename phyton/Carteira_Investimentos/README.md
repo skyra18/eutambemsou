@@ -1,4 +1,4 @@
-##### 💼 Simulador de Carteira de Investimentos
+#### 💼 Simulador de Carteira de Investimentos
 
 Programa em Python para cadastrar ativos e valores investidos, calcular distribuição percentual e identificar riscos de concentração.
 
