@@ -1,10 +1,10 @@
-## Cálculo de 10% de Desconto
+#### Cálculo de 10% de Desconto
 
-### Enunciado
+##### Enunciado
 
 Peça ao usuário o valor da compra e calcule o valor final com 10% de desconto fixo.
 
-### Código
+##### Código
 ```python
 valor = float(input("Qual é o valor da sua compra? "))
 print(valor)
