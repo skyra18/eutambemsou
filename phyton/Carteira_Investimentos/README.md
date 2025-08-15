@@ -16,4 +16,4 @@ Programa em Python para cadastrar ativos e valores investidos, calcular distribu
 
 #### Execução
 ```bash
-carteira_investimentos.py
+skyra_carteiradeinvestimentos.py
