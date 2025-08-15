@@ -1,4 +1,4 @@
-### 📋 Cadastro e Análise de Compras
+#### 📋 Cadastro e Análise de Compras
 
 Sistema simples em Python para registrar produtos e valores de compras.  
 Ao final, exibe lista de itens, total gasto, média por item e alerta para valores acima de R$ 100.
